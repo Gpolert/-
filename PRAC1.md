@@ -47,6 +47,9 @@ if [ -z "$1" ]; then
   #ls -l /usr/local/bin/reg
   #reg banner
 ```
+![367181824-24e7a5cd-eda3-4ce2-93c6-8707f7b2f3ba-2](https://github.com/user-attachments/assets/a2520ce1-d229-4940-8867-31ff99d31a2d)
+
+
 ________________________________________________________________________________________________________________________________________________________________________
 
 <img width="894" alt="Снимок экрана 2024-09-16 в 09 15 52" src="https://github.com/user-attachments/assets/ea929a24-66f3-4ea1-a7c1-88be848e3287">
