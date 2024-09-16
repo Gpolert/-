@@ -144,8 +144,5 @@ if [ ! -d "$directory" ]; then
     echo "Ошибка: директория '$directory' не найдена"
     exit 1
 fi
-```
-
-
 find "$directory" -type f -name "*.txt" -empty -print
 ```
